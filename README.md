@@ -2,7 +2,7 @@
  
 # Sobre o Projeto 
 
-O projeto é um aplicativo de pintura similar com o Microsoft Paint feito em python, esse projeto eu fiz para me familiarizar com a interface grafica tkinter
+O projeto é  um aplicativo de pintura similar como Microsoft Paint, esse projeto eu fiz para me familiarizar com a interface grafica do python usando tkinter
 
 # Layout 
 
