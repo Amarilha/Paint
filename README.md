@@ -29,6 +29,8 @@ O projeto é  um aplicativo de pintura similar como Microsoft Paint, esse projet
 # 🖼️⏩⬜
 A borracha é funcional, ela limpa a tela inteira 
 
+![layout lonig](https://github.com/Amarilha/Paint/blob/main/Paint-Imagem/Captura%20de%20tela%202023-01-10%20200803.png)
+
 ##
 ##
 
